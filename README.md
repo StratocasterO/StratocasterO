@@ -2,7 +2,9 @@
 <h3 align="center">A passionate IT teacher from Barcelona</h3>
 
 <p align="center"> <img height="20px" src="https://komarev.com/ghpvc/?username=stratocastero&label=Profile%20views&color=0e75b6&style=flat" alt="stratocastero" />
-<a href="https://twitter.com/stratocaster_o" target="blank"><img height="20px" src="https://img.shields.io/twitter/follow/stratocaster_o?logo=twitter&style=for-the-badge" alt="stratocaster_o" /></a> </p>
+<a href="https://github.com/stratocastero"><img src="https://img.shields.io/github/stars/stratocastero"/></a>
+<a href="https://twitter.com/intent/follow?screen_name=stratocaster_o">
+<img src="https://img.shields.io/twitter/follow/stratocaster_o?style=social&logo=twitter" alt="follow on Twitter"></a></p>
 
 <!-- Github trophies: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stratocastero" alt="stratocastero" /></a> </p> -->
 <br>
