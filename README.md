@@ -10,7 +10,8 @@
 <br>
 
 - 🔭 I’m currently working on [Singulars 2020](https://on.bit.es/programacio-front-developer/)
-- 👨‍💻 You can check out about me at [my webpage](http://www.omarolmedoferrer.com)
+- 👨‍ You can check out about me at [my webpage](http://www.omarolmedoferrer.com)
+- 💻 See my work at [my Github pages](https://stratocastero.github.io/)
 - 📫 Or reach me at [my email](omarolmedoferrer@gmail.com)
 - 💬 Ask me about **web or Android development**
 - ⚡ Fun fact: **my students say I'm a tea lover**
