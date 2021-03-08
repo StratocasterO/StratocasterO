@@ -14,9 +14,9 @@
 - 💻 See my work at [my Github pages](https://stratocastero.github.io/)
 - 📫 Or reach me at [my email](mailto:omarolmedoferrer@gmail.com)
 - 💬 Ask me about **web or Android development**
-- ⚡ Fun fact: **my students say I'm a tea lover**
+- 🌱 Fun fact: **my students say I'm a tea lover**
 <!-- - 📝 I regularly write articles on [blog](blog) -->
-<!-- - 🌱 I’m currently learning **things** -->
+<!-- - ⚡ I’m currently learning **things** -->
 <!-- - 👯 I’m looking to collaborate on [nothing](link) -->
 <!-- - 🤝 I’m looking for help with [nothing](link) -->
 <!-- - 📄 Know about my experiences [resume](resume) -->
