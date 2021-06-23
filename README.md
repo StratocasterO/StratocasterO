@@ -9,7 +9,8 @@
 <!-- Github trophies: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stratocastero" alt="stratocastero" /></a> </p> -->
 <br>
 
-- 🔭 I’m currently working on [Singulars 2020](https://on.bit.es/programacio-front-developer/)
+- 🔭 I’m currently working on [IT Academy](https://www.barcelonactiva.cat/es/itacademy)
+<!-- - 🔭 I’m currently working on [Singulars 2020](https://on.bit.es/programacio-front-developer/) -->
 - 👨‍ You can check out about me at [my webpage](http://www.omarolmedoferrer.com)
 - 💻 See my work at [my Github pages](https://stratocastero.github.io/)
 - 📫 Or reach me at [my email](mailto:omarolmedoferrer@gmail.com)
