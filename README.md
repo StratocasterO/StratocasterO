@@ -10,9 +10,9 @@
 <br>
 
 - 🔭 I’m currently working as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1080988) <br>
-<small>you can see a summary of my masterclasses [here](https://github.com/StratocasterO/masterclasses-it-academy)</small>
+<sup>you can see a summary of my masterclasses [here](https://github.com/StratocasterO/masterclasses-it-academy)</sup>
 - 💭 Recently worked as frontend teacher at [Singulars 2020](https://on.bit.es/programacio-front-developer/) <br>
-<small>look, we code a [twitter](https://stratocastero.github.io/singulars2020/javascript/twitter.html) that kinda works!</small>
+<sup>look, we code a [twitter](https://stratocastero.github.io/singulars2020/javascript/twitter.html) that kinda works!</sup>
 - 👨‍ You can check out about me at [my webpage](https://stratocastero.github.io/web-omar) (⚠️WIP - looking for a designer)
 - 💻 See my work at [my Github pages](https://stratocastero.github.io/) (⚠️WIP)
 - 📫 Or reach me at [my email](mailto:omarolmedoferrer@gmail.com)
