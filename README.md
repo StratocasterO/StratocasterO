@@ -9,8 +9,10 @@
 <!-- Github trophies: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stratocastero" alt="stratocastero" /></a> </p> -->
 <br>
 
-- 🔭 I’m currently working as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1080988) (you can see a summary of my masterclasses [here](https://github.com/StratocasterO/masterclasses-it-academy))
-- 💭 Recently worked as frontend teacher at [Singulars 2020](https://on.bit.es/programacio-front-developer/) (look, we code a [twitter](https://stratocastero.github.io/singulars2020/javascript/twitter.html) that kinda works!)
+- 🔭 I’m currently working as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1080988) 
+(you can see a summary of my masterclasses [here](https://github.com/StratocasterO/masterclasses-it-academy))
+- 💭 Recently worked as frontend teacher at [Singulars 2020](https://on.bit.es/programacio-front-developer/) 
+(look, we code a [twitter](https://stratocastero.github.io/singulars2020/javascript/twitter.html) that kinda works!)
 - 👨‍ You can check out about me at [my webpage](https://stratocastero.github.io/web-omar) (⚠️WIP - looking for a designer)
 - 💻 See my work at [my Github pages](https://stratocastero.github.io/) (⚠️WIP)
 - 📫 Or reach me at [my email](mailto:omarolmedoferrer@gmail.com)
