@@ -9,9 +9,9 @@
 <!-- Github trophies: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stratocastero" alt="stratocastero" /></a> </p> -->
 <br>
 
-- 🔭 I’m currently working as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1080988)
+- 🔭 I’m currently working as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1080988) (you can see a summary of my masterclasses [here](https://github.com/StratocasterO/masterclasses-it-academy))
 - 💭 Recently worked as frontend teacher at [Singulars 2020](https://on.bit.es/programacio-front-developer/)
-- 👨‍ You can check out about me at [my webpage](http://www.omarolmedoferrer.com) (⚠️WIP)
+- 👨‍ You can check out about me at [my webpage](https://stratocastero.github.io/web-omar) (⚠️WIP)
 - 💻 See my work at [my Github pages](https://stratocastero.github.io/) (⚠️WIP)
 - 📫 Or reach me at [my email](mailto:omarolmedoferrer@gmail.com)
 - 💬 Ask me about **web**, **Node.js** or **Android development**
