@@ -9,15 +9,16 @@
 <!-- Github trophies: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stratocastero" alt="stratocastero" /></a> </p> -->
 <br>
 
-- 🔭 I’m currently working as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1080988) <br>
+- 🔭 I’m currently working as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy2) <br>
 <sup>you can see a summary of my masterclasses [here](https://github.com/StratocasterO/masterclasses-it-academy)</sup>
-- 💭 Recently worked as frontend teacher at [Singulars 2020](https://on.bit.es/programacio-front-developer/) <br>
+- 💭 Recently worked as frontend teacher at [Singulars 2020 - Bit Academy](https://www.bit.es/ca/front-end-web-developer-bootcamp/) <br>
 <sup>look, we code a [twitter](https://stratocastero.github.io/singulars2020/javascript/twitter.html) that kinda works!</sup>
-- 👨‍ You can check out about me at [my webpage](https://stratocastero.github.io/web-omar) (⚠️WIP - looking for a designer)
+- 👨‍ You can check out about me at [my webpage](https://stratocastero.github.io/web-omar) (⚠️WIP - looking for a designer ✨)
 - 💻 See my work at [my Github pages](https://stratocastero.github.io/) (⚠️WIP)
 - 📫 Or reach me at [my email](mailto:omarolmedoferrer@gmail.com)
 - 💬 Ask me about **web**, **Node.js** or **Android development**
 - 🌱 (Not so) fun fact: **my students say I'm a tea lover**
+- 📖 Currently reading Shadow Rising (The Wheel of Time 4) by Robert Jordan
 <!-- - 📝 I regularly write articles on [blog](blog) -->
 <!-- - ⚡ I’m currently learning **things** -->
 <!-- - 👯 I’m looking to collaborate on [nothing](link) -->
