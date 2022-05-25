@@ -13,8 +13,10 @@
 <sup>you can see a summary of my masterclasses [here](https://github.com/StratocasterO/masterclasses-it-academy)</sup>
 - 💭 Recently worked as frontend teacher at [Singulars 2020 - Bit Academy](https://www.bit.es/ca/front-end-web-developer-bootcamp/) <br>
 <sup>look, we code a [twitter](https://stratocastero.github.io/singulars2020/javascript/twitter.html) that kinda works!</sup>
-- 👨‍ You can check out about me at [my webpage](https://stratocastero.github.io/web-omar) (⚠️WIP - looking for a designer ✨)
-- 💻 See my work at [my Github pages](https://stratocastero.github.io/) (⚠️WIP)
+- 👨‍ You can check out about me at [my webpage](https://stratocastero.github.io/web-omar) 
+<sup>⚠️WIP - looking for a designer ✨</sup>
+- 💻 See my work at [my Github pages](https://stratocastero.github.io/) 
+<sup>⚠️WIP</sup>
 - 📫 Or reach me at [my email](mailto:omarolmedoferrer@gmail.com)
 - 💬 Ask me about **web**, **Node.js** or **Android development**
 - 🌱 (Not so) fun fact: **my students say I'm a tea lover**
