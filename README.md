@@ -19,7 +19,7 @@
 - 📫 Or reach me at [my email](mailto:omarolmedoferrer@gmail.com)
 - 💬 Ask me about **web**, **Node.js** or **Android development**
 - 🌱 (Not so) fun fact: **my students say I'm a tea lover**
-- 📖 Currently reading Shadow Rising (The Wheel of Time 4) by Robert Jordan
+- 📖 Currently reading [The Wheel of Time](https://www.goodreads.com/book/show/13895.The_Fires_of_Heaven) and [Skyward](https://www.goodreads.com/series/247635-skyward) series
 <!-- - 📝 I regularly write articles on [blog](blog) -->
 <!-- - ⚡ I’m currently learning **things** -->
 <!-- - 👯 I’m looking to collaborate on [nothing](link) -->
