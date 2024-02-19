@@ -10,7 +10,7 @@
 <br>
 
 - 🎸 Currently studing sonology at [ESMUC](https://www.esmuc.cat/en/studies/grau/sonologia/) <br>
-<sup>you can see some things I'm doing in my [Processing](https://github.com/StratocasterO/Processing) and [Pure-Data](https://github.com/StratocasterO/Pure-Data) repos</sup>
+<sup>you can see some things I'm doing with [Processing](https://stratocastero.github.io/Processing/p5.js/) and [Pure-Data](https://github.com/StratocasterO/Pure-Data) </sup>
 - 🔭 Recently worked as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy2) <br>
 <sup>you can see a summary of my masterclasses [here](https://github.com/StratocasterO/masterclasses-it-academy)</sup>
 - 💭 (Not so) recently worked as frontend teacher at [Singulars 2020 - Bit Academy](https://www.bit.es/ca/front-end-web-developer-bootcamp/) <br>
