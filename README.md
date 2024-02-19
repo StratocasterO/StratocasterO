@@ -9,9 +9,11 @@
 <!-- Github trophies: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stratocastero" alt="stratocastero" /></a> </p> -->
 <br>
 
-- 🔭 I’m currently working as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy2) <br>
+- 🎸 Currently studing sonology at [ESMUC](https://www.esmuc.cat/en/studies/grau/sonologia/) <br>
+<sup>you can see some things I'm doing in my [Processing](https://github.com/StratocasterO/Processing) and [Pure-Data](https://github.com/StratocasterO/Pure-Data) repos</sup>
+- 🔭 Recently worked as Node.js mentor at [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy2) <br>
 <sup>you can see a summary of my masterclasses [here](https://github.com/StratocasterO/masterclasses-it-academy)</sup>
-- 💭 Recently worked as frontend teacher at [Singulars 2020 - Bit Academy](https://www.bit.es/ca/front-end-web-developer-bootcamp/) <br>
+- 💭 (Not so) recently worked as frontend teacher at [Singulars 2020 - Bit Academy](https://www.bit.es/ca/front-end-web-developer-bootcamp/) <br>
 <sup>look, we code a [twitter](https://stratocastero.github.io/singulars2020/javascript/twitter.html) that kinda works!</sup>
 - 👨‍ You can check out about me at [my webpage](https://stratocastero.github.io/web-omar) ⚠️WIP <br>
 <sup>looking for a designer ✨</sup>
